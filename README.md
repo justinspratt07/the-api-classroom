@@ -2,6 +2,12 @@
 
 An accessible, self-paced introduction to REST APIs, using the [Spring Boot grading microservice](https://github.com/justinspratt07/spring-boot-grading-microservice) as a practical case study.
 
+## Live demo
+
+[Launch The API Classroom](https://justinspratt07.github.io/the-api-classroom/) — no download or sign-in required.
+
+The demo runs entirely in your browser with simulated grading responses. Progress and preferences are saved on your device.
+
 ## Course overview
 
 **Introduction to REST APIs** takes approximately 15 minutes. Learners follow a linear sequence: objectives, six short lesson screens, three guided practice tasks, a five-question quiz, and a learning summary.
