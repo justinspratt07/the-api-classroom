@@ -1,0 +1,16 @@
+# Keep the repository limited to distributable project files.
+*
+!.gitignore
+!README.md
+!course/
+!course/index.html
+!course/styles.css
+!course/content.js
+!course/course.js
+!course/scorm.js
+!course/imsmanifest.xml
+!docs/
+!docs/*.md
+!docs/contrast-results.json
+!packages/
+!packages/introduction-to-rest-apis-scorm12.zip

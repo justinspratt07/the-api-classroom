@@ -1,0 +1,34 @@
+{
+  "academic": {
+    "fg/bg": 14.37,
+    "muted/bg": 7.58,
+    "fg/soft": 12.77,
+    "border/bg": 4.52,
+    "accent/soft": 5.4,
+    "focus/bg": 6.51
+  },
+  "ink": {
+    "fg/bg": 21,
+    "muted/bg": 15.91,
+    "fg/soft": 18.59,
+    "border/bg": 12.63,
+    "accent/soft": 18.59,
+    "focus/bg": 21
+  },
+  "night": {
+    "fg/bg": 21,
+    "muted/bg": 18.1,
+    "fg/soft": 17.93,
+    "border/bg": 15.46,
+    "accent/soft": 17.93,
+    "focus/bg": 21
+  },
+  "yellow": {
+    "fg/bg": 19.56,
+    "muted/bg": 20.02,
+    "fg/soft": 17.02,
+    "border/bg": 19.56,
+    "accent/soft": 17.02,
+    "focus/bg": 21
+  }
+}
